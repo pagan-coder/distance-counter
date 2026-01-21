@@ -3,3 +3,4 @@
 distance_wrapper.c
 c_lib/*.o
 c_lib/*.so
+*.o

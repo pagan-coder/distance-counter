@@ -17,7 +17,7 @@ double haversine_distance(Point p1, Point p2) {
 }
 
 // Calculate total distance from first point through all points to last point
-double calculate_total_distance(Point* points, int num_points) {
+double calculate_total_distance(Point * points, int num_points) {
 
 	if (num_points < 2) {
 		return 0.0;
