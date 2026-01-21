@@ -3,12 +3,3 @@
 distance_wrapper.c
 c_lib/*.o
 c_lib/*.so
-c_lib/*.pyd
-c_lib/*.pyc
-c_lib/*.pyo
-c_lib/*.pyx
-c_lib/*.c
-c_lib/*.h
-c_lib/*.hpp
-c_lib/*.hxx
-c_lib/*.cxx
