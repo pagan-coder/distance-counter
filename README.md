@@ -68,8 +68,8 @@ Calculates the total distance between points and the time required to travel thi
 **Response:**
 ```json
 {
-    "distance": 322.65,
-    "time": 4.0332
+    "distance_km": 322.65,
+    "time_hours": 4.0332
 }
 ```
 
